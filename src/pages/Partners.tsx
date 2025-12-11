@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { PageHeader, Section } from '../components/Shared';
 import { PARTNERS } from '../constants';
-import { Partner } from '../types';
+import type { Partner } from '../types';
 import { MapPin, ExternalLink } from 'lucide-react';
 
 const VenetoMap: React.FC<{ 

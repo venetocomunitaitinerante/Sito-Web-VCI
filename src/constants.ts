@@ -1,4 +1,4 @@
-import { Event, Team, Partner, BlogPost, NavItem } from './types';
+import type { Event, Team, Partner, BlogPost, NavItem } from './types';
 
 export const NAV_ITEMS: NavItem[] = [
   { label: 'Home', path: '/' },

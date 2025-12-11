@@ -1,6 +1,6 @@
 import React from 'react';
 import { ArrowRight, Calendar, MapPin, Users } from 'lucide-react';
-import { Event, Team, Partner } from '../types';
+import type { Event, Team } from '../types';
 import { Link } from 'react-router-dom';
 
 // --- Generic Section Wrapper ---
