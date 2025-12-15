@@ -39,7 +39,7 @@ export const Home: React.FC = () => {
               to="/partecipa" 
               className="px-8 py-4 bg-white text-vci-green rounded-full font-bold hover:bg-vci-sand transition-all transform hover:-translate-y-1 shadow-lg flex items-center justify-center gap-2"
             >
-              Partecipa al prossimo cammino <ArrowRight size={20} />
+              Partecipa alla prossima camminata <ArrowRight size={20} />
             </Link>
             <Link 
               to="/chi-siamo" 
