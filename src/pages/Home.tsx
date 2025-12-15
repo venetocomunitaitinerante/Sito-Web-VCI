@@ -32,7 +32,7 @@ export const Home: React.FC = () => {
             e <span className="text-vci-sand italic">persone</span>.
           </h1>
           <p className="text-lg md:text-xl text-gray-200 mb-10 max-w-2xl mx-auto font-light animate-fade-in-up delay-100">
-            Un'associazione che riscopre il Veneto a passo lento, tessendo relazioni e valorizzando la bellezza locale.
+            Un'associazione che riscopre il Veneto a passo lento, tessendo relazioni e valorizzando la bellezza locale, creando una rete di comunicazione tra le realtà locali.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in-up delay-200">
             <Link 
