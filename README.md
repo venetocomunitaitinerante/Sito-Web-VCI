@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Sito Web VCI
 
-# Run and deploy your AI Studio app
+## Come Modificare il sito
 
-This contains everything you need to run your app locally.
+1. Premi il pulsante `play` verde a sinistra, nella tab con l'icona di uno scarafaggio e play.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1TxdY1nDSqzHQ9Jm_dguWH_wYv1UtO3gI
+2. Clicca su `apri nel browser`.
 
-## Run Locally
+3. Tutte le modifiche saranno mostrate in tempo reale.
 
-**Prerequisites:**  Node.js
+4. Quando hai finito, apri la tab del `source control` (icona con linea e pallini)
 
+5. Scrivi un mini messaggio descrivendo quello che hai fatto (inidicativamente 10 parole max)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+6. Premi `Commit`
+
+7. Premi `sincronizza`
+
+8. Fine
