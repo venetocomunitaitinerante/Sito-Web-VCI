@@ -14,6 +14,6 @@
 
 6. Premi `Commit`
 
-7. Premi `sincronizza`
+7. Premi `Sincronizza cambiamenti`
 
 8. Fine
